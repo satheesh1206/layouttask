@@ -1,0 +1,22 @@
+.find_candidates{
+    background-color: rgb(230, 80, 110);
+}
+.bell{
+    color: white;
+    width: 20px;
+    height: 25px;
+}
+.background{
+    background-image:url("./bussiness.jpg");
+    background-image: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;   
+}
+.heading{
+    color: rgb(230, 80, 110);
+}
+.bord{
+    border-color: rgb(230, 80, 110);
+    color:rgb(230, 80, 110) ;
+    
+}
